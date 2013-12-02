@@ -1,6 +1,6 @@
 // *******************************
 // SquareWear 2.0 Examples
-// Temperature Sensor
+// Demonstration
 // RAYSHOBBY.net
 //
 // This is a demo pack that includes
@@ -11,7 +11,7 @@
 // - buzzer (using Arduino's Tone function)
 // - HID serial (requires running an HID
 //   Serial Monitor on your host computer)
-// To iterate the demos, click the pushbutton
+// To cycle through the demos, click the pushbutton
 // *******************************
 #include <PciManager.h>
 #include <PciListenerImp.h>
