@@ -26,7 +26,6 @@
 
 #include "Arduino.h"
 #include "PciListenerImp.h"
-#include <Task.h>
 
 PciListenerImp::PciListenerImp(byte pin, void (*callback)(byte changeKind)) {
   this->_callback = callback;
